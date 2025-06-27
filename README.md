@@ -87,8 +87,5 @@ Devesh Pandurang Patil
 📧 patildevesh943@gmail.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/devesh-patil-440a29208/)
 
----
 
-## 📝 License
 
-This project is licensed under the MIT License.
